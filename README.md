@@ -1,5 +1,6 @@
-# Hi, I'm Kamila 👋
+ 
 
+👋 Hi, I'm Kamila
 🎓 Engineering student @ Purdue University  
 💻 Passionate about **AI, robotics, and full-stack development**  
 🚀 Building startups in **healthtech, oil & gas, and construction tech**
