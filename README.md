@@ -6,9 +6,8 @@
 ---
 
 ### 🚀 What I Do
-- Cross-platform apps (**Flutter**, **FastAPI**, **Docker**, **PostgreSQL**)  
-- IoT & Hardware (**Raspberry Pi**, **ESP32**, **Arduino**)  
-- **AI/ML & Computer Vision** for real-world safety and monitoring
+- Cross-platform apps (Flutter,FastAPI,Docker,PostgreSQL)  
+- AI/ML & Computer Vision
 
 
 ### 🛠️ Tech Stack
