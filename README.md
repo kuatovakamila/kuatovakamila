@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kamila 👋</h1>
 <p align="center">
-  🎓 Engineering student @ Purdue University · 💻 AI · Robotics · Full-stack
+  🎓 Engineering student @ Purdue University 
 </p>
 
 ---
