@@ -32,32 +32,28 @@
 - 📫 Feel free to reach me out **[Email](mailto:kamila.kuatova2025@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kamila-kuatova-6b89a1282/)**
 <!--Intro end-->
 
-<!--- stats & Trophy (start) -->
+<!--- stats (start) -->
 <p align="center">
-  <!--- stats (start) -->
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuatovakamila&theme=tokyonight&show_icons=true&count_private=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuatovakamila&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
         <br></br>
-        <img title="🔥 Streak stats" alt="🔥 Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=kuatovakamila&theme=tokyonight&hide_border=false" />
+        <img align="center" src="https://streak-stats.demolab.com?user=kuatovakamila&theme=tokyonight&hide_border=true" />
       </td>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kuatovakamila&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuatovakamila&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10" />
       </td>
     </tr>
   </table>
-  <!--- stats (end) -->
-
-  <!--- trophy (start) -->
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Check trophy">
-      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=kuatovakamila&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" />
-    </a>
-  </div>
-  <!--- trophy (end) -->
 </p>
-<!--- stats & Trophy (end) -->
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kuatovakamila&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" />
+</div>
+<!--- trophy (end) -->
 
 <!--tech stack heading-->
 <div align="center">
