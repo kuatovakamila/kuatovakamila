@@ -1,4 +1,4 @@
-<!--horizontal divider(gradient)-->
+<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <!--h1 without bottom border-->
@@ -17,35 +17,45 @@
 </div>
 
 <!--Intro start-->
-- 🎓 CS student @ **Purdue University, West Lafayette**
+- 🎓 I'm a CS student @ **Purdue University, West Lafayette**.
 
-- 🤖 Deeply interested in **Machine Learning** — from theory to implementation
+- 🤖 Deeply interested in **Machine Learning** — from theory to implementation.
 
-- 🛠️ Software engineer who loves building things end-to-end
+- 🛠️ I'm currently learning to become a **great Software Engineer**.
 
-- 📍 Based in the **San Francisco Bay Area**
-
-- 📚 Currently exploring: **deep learning, MLOps & scalable systems**
+- 📍 Based in the **San Francisco Bay Area**.
 
 - 💬 Ask me about **SWE, ML pipelines, or anything CS**
 
 - 📫 Feel free to reach me out **[Email](mailto:kamila.kuatova2025@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kamila-kuatova-6b89a1282/)**
 <!--Intro end-->
 
-<!--- stats (start) -->
+<!--- stats & Trophy (start) -->
 <p align="center">
+  <!--- stats (start) -->
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuatovakamila&theme=dark&show_icons=true&count_private=true" />
+        <br></br>
+        <img title="🔥 Streak stats of kuatovakamila" alt="🔥 Streak stats of kuatovakamila" src="https://github-readme-streak-stats.herokuapp.com/?user=kuatovakamila&theme=dark&hide_border=false" />
       </td>
       <td width="50%" align="center">
         <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kuatovakamila&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
       </td>
     </tr>
   </table>
+  <!--- stats (end) -->
+
+  <!--- trophy (start) -->
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Check trophy">
+      <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=kuatovakamila&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" />
+    </a>
+  </div>
+  <!--- trophy (end) -->
 </p>
-<!--- stats (end) -->
+<!--- stats & Trophy (end) -->
 
 <!--h2 without bottom border-->
 <div align="center">
@@ -55,10 +65,11 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,java,git,linux,github,vscode,docker,jupyter&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,cpp,java,git,linux,github,vscode,docker,jupyter&perline=14" />
   </a>
 </p>
 
+<!-- Connect with me -->
 <!--h2 without bottom border-->
 <div align="center">
   <h2>Connect With Me 🤝</h2>
@@ -79,5 +90,5 @@
   <img src="https://komarev.com/ghpvc/?username=kuatovakamila&color=6EE7B7&style=flat-square&label=Profile+Views" />
 </div>
 
-<!--horizontal divider(gradient)-->
+<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
