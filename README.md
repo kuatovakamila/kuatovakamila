@@ -42,9 +42,9 @@
 
 <div align="center">
 
-![Kamila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuatovakamila&show_icons=true&theme=tokyonight&hide_border=true)
+![Kamila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuatovakamila&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuatovakamila&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuatovakamila&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
 
