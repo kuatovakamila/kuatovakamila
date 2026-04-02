@@ -30,8 +30,6 @@
     <tr border="none">
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=kuatovakamila&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-        <br></br>
-        <img src="https://streak-stats.demolab.com?user=kuatovakamila&theme=tokyonight&hide_border=true" />
       </td>
       <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuatovakamila&theme=tokyonight&hide_border=true&layout=compact&langs_count=10" />
@@ -39,11 +37,6 @@
     </tr>
   </table>
 </p>
-
-<!--- trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kuatovakamila&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" />
-</div>
 
 <!--tech stack heading-->
 <div align="center">
